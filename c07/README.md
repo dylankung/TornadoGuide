@@ -1,4 +1,4 @@
-# 7 异步与WebSockets
+# 6 异步与WebSockets
 
 ## 知识点
 
